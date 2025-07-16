@@ -419,4 +419,10 @@
     "callsign": "AEROFLOT",
     "virtual": true
   }
+  {
+    "icao": "MDS",
+    "name": "Conception Logistics",
+    "callsign": "CONCEPTION",
+    "virtual": true
+  },
 ]
