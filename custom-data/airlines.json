@@ -1235,5 +1235,11 @@
     "name": "Air Mauritius Virtual",
     "callsign": "Air Mauritius",
     "virtual": true
+  },
+  {
+    "icao": "MDS",
+    "name": "Conception Virtual Airlines",
+    "callsign": "CONCEPTION",
+    "virtual": true
   }
 ]
